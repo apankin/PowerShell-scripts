@@ -1,0 +1,12 @@
+# Отчёты, которые создают скрипты
+video_report_*.csv
+video_report_*.xlsx
+transcode_report_*.txt
+
+# Временные файлы перекодирования
+*.tmp_*
+
+# Служебные файлы Windows и редакторов
+Thumbs.db
+desktop.ini
+.vscode/
